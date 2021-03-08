@@ -5,7 +5,11 @@ function Home(){
     </head>
     <body>
     
-    <button type="button" class="btn btn-primary">Primary</button>
+    <nav class="navbar navbar-dark bg-dark">
+    <font color="white">HOME | CONTEUDO | FALE CONOSCO | SOBRE  </font>  
+    </nav>
+
+
 
     
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
