@@ -6,7 +6,7 @@ function Home(){
     <body>
     
     <nav class="navbar navbar-dark bg-dark">
-    <font color="white"> RIFA - CHURRASQUEIRA ELÉTRICA  </font>  
+    <font color="white"><center> RIFA - CHURRASQUEIRA ELÉTRICA</center>  </font>  
     </nav>
 
     <table>
