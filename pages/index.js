@@ -9,6 +9,20 @@ function Home(){
     <font color="white">HOME | CONTEUDO | FALE CONOSCO | SOBRE  </font>  
     </nav>
 
+    <table>
+        <tr>
+            <td>NUMERO</td>
+            <td>NOME</td>    
+        </tr>
+
+        <tr>
+            <td>01</td>
+            <td>SAMUEL</td>    
+        </tr>
+        </table>
+        
+
+
 
 
     
