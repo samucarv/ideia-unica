@@ -13,29 +13,61 @@ function Home(){
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Nome</th>     
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <th scope="row">01</th>
+      <td>Myrna</td>
     </tr>
+
     <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
+      <th scope="row">02</th>
+      <td>Adna</td>
     </tr>
+
     <tr>
-      <th scope="row">3</th>
-      <td colspan="2">Larry the Bird</td>
-      <td>@twitter</td>
+      <th scope="row">03</th>
+      <td>Myrna</td>
     </tr>
+
+    <tr>
+      <th scope="row">04</th>
+      <td>Myrna</td>
+    </tr>
+
+    <tr>
+      <th scope="row">05</th>
+      <td>Myrna</td>
+    </tr>
+
+    <tr>
+      <th scope="row">06</th>
+      <td>Myrna</td>
+    </tr>
+
+    <tr>
+      <th scope="row">07</th>
+      <td>Myrna</td>
+    </tr>
+
+    <tr>
+      <th scope="row">08</th>
+      <td>Myrna</td>
+    </tr>
+
+    <tr>
+      <th scope="row">09</th>
+      <td>Myrna</td>
+    </tr>
+    
+    <tr>
+      <th scope="row">10</th>
+      <td>Myrna</td>
+    </tr>
+    
+    
   </tbody>
 </table>
 
