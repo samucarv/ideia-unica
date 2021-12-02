@@ -6,11 +6,10 @@ function Home(){
     <body>
     
     <nav class="navbar navbar-dark bg-dark">
-    <font color="white"><center> RIFA - CHURRASQUEIRA ELÉTRICA</center>  </font>  
+    <font color="white"><center> RIFA - CHURRASQUEIRA ELÉTRICA - VALOR 10 REAIS</center>  </font>  
     </nav>
 
-    <img src="../images/churrasqueira.jpg" class="rounded mx-auto d-block" alt="Rifa"/>
-
+   
     <table class="table table-striped" >
   <thead>
     <tr>
@@ -256,7 +255,7 @@ function Home(){
 
     <tr>
       <th scope="row">40</th>
-      <td></td>
+      <td>Kamila</td>
       <td></td>
     </tr>
     
@@ -283,7 +282,7 @@ function Home(){
     
     <tr>
       <th scope="row">44</th>
-      <td></td>
+      <td>Kamila</td>
       <td></td>
     </tr>
 
@@ -388,13 +387,13 @@ function Home(){
 
     <tr>
       <th scope="row">61</th>
-      <td></td>
+      <td>Dona Barbara</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">62</th>
-      <td></td>
+      <td>Dona Barbara</td>
       <td></td>
     </tr>
 
@@ -430,7 +429,7 @@ function Home(){
 
     <tr>
       <th scope="row">68</th>
-      <td></td>
+      <td>Sandra</td>
       <td></td>
     </tr>
     
@@ -445,67 +444,67 @@ function Home(){
 
     <tr>
       <th scope="row">70</th>
-      <td></td>
+      <td>Sara</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">71</th>
-      <td></td>
+      <td>Sara</td>
       <td></td>
     </tr>
     
     <tr>
       <th scope="row">72</th>
-      <td></td>
+      <td>Sara</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">73</th>
-      <td></td>
+      <td>Sara</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">74</th>
-      <td></td>
+      <td>Sara</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">75</th>
-      <td></td>
+      <td>Sara</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">76</th>
-      <td></td>
+      <td>Sara</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">77</th>
-      <td></td>
+      <td>Pastor Jesse</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">78</th>
-      <td></td>
+      <td>Sara</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">79</th>
-      <td></td>
+      <td>Sara</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">80</th>
-      <td></td>
+      <td>Sara</td>
       <td></td>
     </tr>
 
@@ -626,7 +625,7 @@ function Home(){
 
     <tr>
       <th scope="row">100</th>
-      <td></td>
+      <td>Sandra</td>
       <td></td>
     </tr>
 

@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/samucarv/ideia-unica#readme",
   "dependencies": {
-    "next": "^10.0.7",
+    "next": "^10.2.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   }
