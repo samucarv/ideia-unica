@@ -201,7 +201,7 @@ function Home(){
 
     <tr>
       <th scope="row">31</th>
-      <td></td>
+      <td>Ivone</td>
       <td></td>
     </tr>
 
@@ -219,37 +219,37 @@ function Home(){
 
     <tr>
       <th scope="row">34</th>
-      <td></td>
+      <td>Ivone</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">35</th>
-      <td></td>
+      <td>Ivone</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">36</th>
-      <td></td>
+      <td>Ivone</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">37</th>
-      <td></td>
+      <td>Ivone</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">38</th>
-      <td></td>
+      <td>Roseni</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">39</th>
-      <td></td>
+      <td>Roseni</td>
       <td></td>
     </tr>
 
@@ -261,7 +261,7 @@ function Home(){
     
     <tr>
       <th scope="row">41</th>
-      <td></td>
+      <td>Roseni</td>
       <td></td>
     </tr>
 
@@ -276,7 +276,7 @@ function Home(){
 
     <tr>
       <th scope="row">43</th>
-      <td></td>
+      <td>Roseni</td>
       <td></td>
     </tr>
     
@@ -288,7 +288,7 @@ function Home(){
 
     <tr>
       <th scope="row">45</th>
-      <td></td>
+      <td>Roseni</td>
       <td></td>
     </tr>
 
