@@ -9,7 +9,7 @@ function Home(){
     <font color="white"><center> RIFA - CHURRASQUEIRA ELÉTRICA</center>  </font>  
     </nav>
 
-    <table class="table">
+    <table class="table table-striped" >
   <thead>
     <tr>
       <th scope="col">#</th>
