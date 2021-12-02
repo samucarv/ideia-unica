@@ -9,6 +9,8 @@ function Home(){
     <font color="white"><center> RIFA - CHURRASQUEIRA ELÉTRICA</center>  </font>  
     </nav>
 
+    <img src="./images/churrasqueira.jpg" class="rounded mx-auto d-block" alt="Rifa"/>
+
     <table class="table table-striped" >
   <thead>
     <tr>
