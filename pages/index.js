@@ -1,3 +1,7 @@
+import React from 'react';
+import Image from 'next/image';
+
+
 function Home(){
     return <html>
     <head>
@@ -9,6 +13,8 @@ function Home(){
     <font color="white"><center> RIFA - CHURRASQUEIRA ELÉTRICA - VALOR 10 REAIS</center>  </font>  
     </nav>
 
+    
+    
    
     <table class="table table-striped" >
   <thead>
@@ -130,7 +136,7 @@ function Home(){
     <tr>
       <th scope="row">19</th>
       <td>Dona Antonia</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     
     <tr>
@@ -256,7 +262,7 @@ function Home(){
     <tr>
       <th scope="row">40</th>
       <td>Kamila</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     
     <tr>
@@ -283,7 +289,7 @@ function Home(){
     <tr>
       <th scope="row">44</th>
       <td>Kamila</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -294,8 +300,8 @@ function Home(){
 
     <tr>
       <th scope="row">46</th>
-      <td></td>
-      <td></td>
+      <td>Dona Antônia</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -445,43 +451,43 @@ function Home(){
     <tr>
       <th scope="row">70</th>
       <td>Sara</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">71</th>
       <td>Sara</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     
     <tr>
       <th scope="row">72</th>
       <td>Sara</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">73</th>
       <td>Sara</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">74</th>
       <td>Sara</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">75</th>
       <td>Sara</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">76</th>
       <td>Sara</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -493,13 +499,13 @@ function Home(){
     <tr>
       <th scope="row">78</th>
       <td>Sara</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">79</th>
       <td>Sara</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
