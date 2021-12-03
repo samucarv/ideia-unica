@@ -363,7 +363,7 @@ function Home(){
 
     <tr>
       <th scope="row">56</th>
-      <td></td>
+      <td>Jorge</td>
       <td></td>
     </tr>
 
@@ -381,7 +381,7 @@ function Home(){
 
     <tr>
       <th scope="row">59</th>
-      <td></td>
+      <td>Jorge</td>
       <td></td>
     </tr>
 
@@ -405,13 +405,13 @@ function Home(){
 
     <tr>
       <th scope="row">63</th>
-      <td></td>
+      <td>Jorge</td>
       <td></td>
     </tr>
 
     <tr>
       <th scope="row">64</th>
-      <td></td>
+      <td>Jorge</td>
       <td></td>
     </tr>
 
@@ -423,13 +423,13 @@ function Home(){
 
     <tr>
       <th scope="row">66</th>
-      <td></td>
-      <td></td>
+      <td>Jorge</td>
+      <td>Jorge</td>
     </tr>
 
     <tr>
       <th scope="row">67</th>
-      <td></td>
+      <td>Jorge</td>
       <td></td>
     </tr>
 
@@ -441,7 +441,7 @@ function Home(){
     
     <tr>
       <th scope="row">69</th>
-      <td></td>
+      <td>Jorge</td>
       <td></td>
     </tr>
 
@@ -522,7 +522,7 @@ function Home(){
 
     <tr>
       <th scope="row">82</th>
-      <td></td>
+      <td>Jorge</td>
       <td></td>
     </tr>
     
@@ -537,7 +537,7 @@ function Home(){
 
     <tr>
       <th scope="row">84</th>
-      <td></td>
+      <td>Jorge</td>
       <td></td>
     </tr>
 
