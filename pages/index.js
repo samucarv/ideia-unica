@@ -283,7 +283,7 @@ function Home(){
     <tr>
       <th scope="row">43</th>
       <td>Roseni</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
     
     <tr>
@@ -295,7 +295,7 @@ function Home(){
     <tr>
       <th scope="row">45</th>
       <td>Roseni</td>
-      <td>Sim</td>
+      <td></td>
     </tr>
 
     <tr>
@@ -621,13 +621,13 @@ function Home(){
     <tr>
       <th scope="row">98</th>
       <td>Dr Marcelo</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     
     <tr>
       <th scope="row">99</th>
       <td>Marcus Vinicius TV</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
