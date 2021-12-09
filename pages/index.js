@@ -364,7 +364,7 @@ function Home(){
     <tr>
       <th scope="row">56</th>
       <td>Jorge</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -382,7 +382,7 @@ function Home(){
     <tr>
       <th scope="row">59</th>
       <td>Jorge</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -406,13 +406,13 @@ function Home(){
     <tr>
       <th scope="row">63</th>
       <td>Jorge</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">64</th>
       <td>Jorge</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -424,13 +424,13 @@ function Home(){
     <tr>
       <th scope="row">66</th>
       <td>Jorge</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">67</th>
       <td>Jorge</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -442,7 +442,7 @@ function Home(){
     <tr>
       <th scope="row">69</th>
       <td>Jorge</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
 
@@ -523,7 +523,7 @@ function Home(){
     <tr>
       <th scope="row">82</th>
       <td>Jorge</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     
     <tr>
@@ -538,7 +538,7 @@ function Home(){
     <tr>
       <th scope="row">84</th>
       <td>Jorge</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -550,7 +550,7 @@ function Home(){
     <tr>
       <th scope="row">86</th>
       <td>Jorge</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -638,8 +638,8 @@ function Home(){
 
       <tr>
       <th scope="row">101</th>
-      <td>Sandra</td>
-      <td>Sim</td>
+      <td></td>
+      <td></td>
     </tr>
 
 
