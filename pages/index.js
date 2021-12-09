@@ -638,33 +638,33 @@ function Home(){
 
       <tr>
       <th scope="row">101</th>
-      <td></td>
-      <td></td>
+      <td>Dinamar Belizario</td>
+      <td>Sim</td>
     </tr>
 
 
     <tr>
       <th scope="row">102</th>
-      <td></td>
-      <td></td>
+      <td>Dinamar Belizario</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">103</th>
-      <td></td>
-      <td></td>
+      <td>Dinamar Belizario</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">104</th>
-      <td></td>
-      <td></td>
+      <td>Dinamar Belizario</td>
+      <td>Sim</td>
     </tr>
     
     <tr>
       <th scope="row">105</th>
-      <td></td>
-      <td></td>
+      <td>Dinamar Belizario</td>
+      <td>Sim</td>
     </tr>
 
 
