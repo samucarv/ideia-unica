@@ -901,7 +901,7 @@ function Home(){
     <tr>
       <th scope="row">143</th>
       <td></td>
-      <td>Sim</td>
+      <td></td>
     </tr>
 
     <tr>
