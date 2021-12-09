@@ -672,8 +672,8 @@ function Home(){
 
     <tr>
       <th scope="row">106</th>
-      <td></td>
-      <td></td>
+      <td>Murielle Silva</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -732,14 +732,14 @@ function Home(){
 
     <tr>
       <th scope="row">116</th>
-      <td></td>
-      <td></td>
+      <td>Murielle Silva</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">117</th>
       <td>Joao Pedro (Ro)</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -795,8 +795,8 @@ function Home(){
 
     <tr>
       <th scope="row">126</th>
-      <td></td>
-      <td></td>
+      <td>Murielle Silva</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -808,7 +808,7 @@ function Home(){
     <tr>
       <th scope="row">128</th>
       <td>Joao Pedro (Ro)</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
