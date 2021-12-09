@@ -744,8 +744,8 @@ function Home(){
 
     <tr>
       <th scope="row">118</th>
-      <td></td>
-      <td></td>
+      <td>Marcos Mega (RO)</td>
+      <td>Sim</td>
     </tr>
     
     <tr>
