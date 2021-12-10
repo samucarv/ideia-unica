@@ -34,7 +34,7 @@ function Home(){
     <tr>
       <th scope="row">02</th>
       <td>Adna</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -178,7 +178,7 @@ function Home(){
     <tr>
       <th scope="row">26</th>
       <td>Adna</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -250,13 +250,13 @@ function Home(){
     <tr>
       <th scope="row">38</th>
       <td>Roseni</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">39</th>
       <td>Roseni</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -268,7 +268,7 @@ function Home(){
     <tr>
       <th scope="row">41</th>
       <td>Roseni</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
 
@@ -283,7 +283,7 @@ function Home(){
     <tr>
       <th scope="row">43</th>
       <td>Roseni</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
     
     <tr>
@@ -295,7 +295,7 @@ function Home(){
     <tr>
       <th scope="row">45</th>
       <td>Roseni</td>
-      <td></td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -678,20 +678,20 @@ function Home(){
 
     <tr>
       <th scope="row">107</th>
-      <td></td>
-      <td></td>
+      <td>Aislan</td>
+      <td>Sim</td>
     </tr>
     
     <tr>
       <th scope="row">108</th>
-      <td></td>
-      <td></td>
+      <td>Ivanilton</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">109</th>
-      <td></td>
-      <td></td>
+      <td>Elita</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
