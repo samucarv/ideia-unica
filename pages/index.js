@@ -726,8 +726,8 @@ function Home(){
 
     <tr>
       <th scope="row">115</th>
-      <td></td>
-      <td></td>
+      <td>Elcio</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -750,8 +750,8 @@ function Home(){
     
     <tr>
       <th scope="row">119</th>
-      <td></td>
-      <td></td>
+      <td>Kesia</td>
+      <td>Sim</td>
     </tr>
 
 
@@ -759,14 +759,14 @@ function Home(){
 
     <tr>
       <th scope="row">120</th>
-      <td></td>
-      <td></td>
+      <td>Kesia</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">121</th>
-      <td></td>
-      <td></td>
+      <td>Kesia</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
