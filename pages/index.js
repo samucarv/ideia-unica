@@ -777,8 +777,8 @@ function Home(){
 
     <tr>
       <th scope="row">123</th>
-      <td></td>
-      <td></td>
+      <td>Alexandre</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -801,8 +801,8 @@ function Home(){
 
     <tr>
       <th scope="row">127</th>
-      <td></td>
-      <td></td>
+      <td>Alexandre</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
@@ -813,8 +813,8 @@ function Home(){
 
     <tr>
       <th scope="row">129</th>
-      <td></td>
-      <td></td>
+      <td>Alexandre</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
