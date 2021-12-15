@@ -819,14 +819,14 @@ function Home(){
 
     <tr>
       <th scope="row">130</th>
-      <td></td>
-      <td></td>
+      <td>Dr. Ivan</td>
+      <td>Sim</td>
     </tr>
     
     <tr>
       <th scope="row">131</th>
-      <td></td>
-      <td></td>
+      <td>Dr. Ivan</td>
+      <td>Sim</td>
     </tr>
 
 
@@ -834,14 +834,14 @@ function Home(){
 
     <tr>
       <th scope="row">132</th>
-      <td></td>
-      <td></td>
+      <td>Dr. Ivan</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">133</th>
-      <td></td>
-      <td></td>
+      <td>Dr. Ivan</td>
+      <td>Sim</td>
     </tr>
     
     <tr>
@@ -852,8 +852,8 @@ function Home(){
 
     <tr>
       <th scope="row">135</th>
-      <td></td>
-      <td></td>
+      <td>Dr. Ivan</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
