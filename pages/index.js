@@ -858,14 +858,14 @@ function Home(){
 
     <tr>
       <th scope="row">136</th>
-      <td></td>
-      <td></td>
+      <td>Nayhane Melo</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">137</th>
-      <td></td>
-      <td></td>
+      <td>Nayhane Melo</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
