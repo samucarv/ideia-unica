@@ -870,32 +870,32 @@ function Home(){
 
     <tr>
       <th scope="row">138</th>
-      <td></td>
-      <td></td>
+      <td>Arlan</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">139</th>
-      <td></td>
-      <td></td>
+      <td>Arlan</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">140</th>
-      <td></td>
-      <td></td>
+      <td>Arlan</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">141</th>
-      <td></td>
-      <td></td>
+      <td>Arlan</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">142</th>
-      <td></td>
-      <td></td>
+      <td>Arlan</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
