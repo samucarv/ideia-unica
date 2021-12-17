@@ -917,14 +917,14 @@ function Home(){
     </tr>
     <tr>
       <th scope="row">146</th>
-      <td></td>
-      <td></td>
+      <td>Fernanda</td>
+      <td>Sim</td>
     </tr>
     
     <tr>
       <th scope="row">147</th>
-      <td></td>
-      <td></td>
+      <td>Fernanda</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
