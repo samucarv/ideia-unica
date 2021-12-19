@@ -900,20 +900,20 @@ function Home(){
 
     <tr>
       <th scope="row">143</th>
-      <td></td>
-      <td></td>
+      <td>Ana Carolina</td>
+      <td>Sim</td>
     </tr>
 
     <tr>
       <th scope="row">144</th>
-      <td></td>
-      <td></td>
+      <td>Ana Carolina</td>
+      <td>Sim</td>
     </tr>
     
     <tr>
       <th scope="row">145</th>
-      <td></td>
-      <td></td>
+      <td>Ana Carolina</td>
+      <td>Sim</td>
     </tr>
     <tr>
       <th scope="row">146</th>
