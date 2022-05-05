@@ -31,14 +31,228 @@ function Home(){
     <tr>
       <th scope="row">LUCIANO</th>
       <td>ANDRE LUIZ / DENISE</td>
-      <td>RUA</td>
-      <td>45600</td>
+      <td>RUA.01 Q.01 L.10,  R. IPES</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
 
+    <tr>
+      <th scope="row">LUCIANO</th>
+      <td>ALINE RENATO</td>
+      <td>RUA. 02, L 17, Q 02, P. JATOBAS (CASA 2)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
 
+    <tr>
+      <th scope="row">LUCIANO</th>
+      <td>MARIA PAULA / EDSON</td>
+      <td>RUA. 02, L 17, Q 02, P. JATOBAS (CASA 1)</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
 
+    <tr>
+      <th scope="row">LUCIANO</th>
+      <td>OSMAR PONCE</td>
+      <td>Rua 01, qd 01, lt 11,R. IPES</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">LUCIANO</th>
+      <td>HUMBERTO</td>
+      <td>RUA 01, L 02, Q 01, R. IPES</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">LUCIANO</th>
+      <td>DONA ILMA</td>
+      <td>RUA 02, Q 06, L 05, R.IPES</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+   
+    <tr>
+      <th scope="row">ANITA</th>
+      <td>AMARA</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">HERBERTO</th>
+      <td>WALACE</td>
+      <td>Rua Alameda Amazonas Qd 96 Lt 01 - St. M. do Sol - Apto 1903 Torre 1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">MARCELO BARBOSA</th>
+      <td>BETO / ALINE</td>
+      <td>R 04, qd 02, lt 07 R Parque dos Ipes</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">AMÁLIA</th>
+      <td>CAMILA</td>
+      <td>Rua 06, qd 01, lt 14 R Parque Ipes</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">AMÁLIA</th>
+      <td>GUILHERME</td>
+      <td>RUA 5 QD 6 LT 10 CASA 4 - PARQUE DOS JATOBAS</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">AMÁLIA</th>
+      <td>NAIRA</td>
+      <td>Rua Alameda Amazonas Qd 96 Lt 01 - St. M. do Sol - Apto 1702 Torre 2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">JORGE</th>
+      <td>LETÍCIA / SACHA</td>
+      <td>S. Universt. r U-10 q3 lt 8 apto 103</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">IVAN PERUZO</th>
+      <td>ROBSON / VIRGINIA</td>
+      <td>Rua Alameda Amazonas Qd 96 Lt 01 - St. M. do Sol - Apto 2005 Torre 4</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <th scope="row">IVAN PERUZO</th>
+      <td>ANDRE SCHWENING</td>
+      <td>A1,q 10, lote 07- ap 601, Edificio Elevado Flamboyant</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">EMERSON CARLIS</th>
+      <td>CARLOS FREDERICO</td>
+      <td>Avenida 01, Qd. 06 Lt. 10 R. Parque dos ipes</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">SEVERINO</th>
+      <td>MAURO</td>
+      <td>Rua  Rodezir Baylao, 07, quadra 47, lote 06, bairro Vila Maria</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">SEVERINO</th>
+      <td>MARCELINHO</td>
+      <td>Rua 21, quadra 47, lotes  01/06 na Vila Maria</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">ERALDO</th>
+      <td>HELIAR</td>
+      <td>rua U3, q 12, lt 11 B. Universitario</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    
+    <tr>
+      <th scope="row">RONALDINHO</th>
+      <td>KARLA</td>
+      <td>Rua  Dos Guaranis, qd 20, lt 05,  Pq das Laranjeiras </td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">RENATO BUENO</th>
+      <td>ANDRE LUIZ</td>
+      <td>Pq dos Jatobas r 5 q6 lt 10 casa 6</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">JORGE</th>
+      <td>IVAN / MELINA</td>
+      <td>Rua Alameda Amazonas Qd 96 Lt 01 - St. M. do Sol - Apto 1006 Torre 3</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">FABIO POSSATO</th>
+      <td>JULIANE / LUCAS</td>
+      <td>Rua Alameda Amazonas Qd 96 Lt 01 - St. M. do Sol - Apto 804 Torre 4</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">NECO</th>
+      <td>SAMUEL</td>
+      <td>RUA 139 QD. LT. - PARQUE DAS LARANJEIRAS</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+    <tr>
+      <th scope="row">GELSON</th>
+      <td>JACIRA</td>
+      <td>RUA 139 QD. LT. - PARQUE DAS LARANJEIRAS</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
 
   </tbody>
 </table>
