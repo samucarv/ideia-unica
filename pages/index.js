@@ -163,7 +163,7 @@ function Home(){
       <td></td>
     </tr>
     
-    <tr class="table-sucess">
+    <tr class="table-success">
       <th scope="row">IVAN PERUZO</th>
       <td>ANDRE SCHWENING</td>
       <td>A1,q 10, lote 07- ap 601, Edificio Elevado Flamboyant</td>
