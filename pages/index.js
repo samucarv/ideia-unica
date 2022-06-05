@@ -132,7 +132,7 @@ function Home(){
       <th scope="row">AMÁLIA</th>
       <td>NAIRA</td>
       <td>Rua Alameda Amazonas Qd 96 Lt 01 - St. M. do Sol - Apto 1702 Torre 2</td>
-      <td></td>
+      <td>75420</td>
       <td></td>
       <td></td>
     </tr>
@@ -195,7 +195,7 @@ function Home(){
       <th scope="row">ERALDO</th>
       <td>HELIAR</td>
       <td>rua U3, q 12, lt 11 B. Universitario</td>
-      <td></td>
+      <td>13711</td>
       <td></td>
       <td></td>
     </tr>
@@ -222,7 +222,7 @@ function Home(){
       <th scope="row">JORGE</th>
       <td>IVAN / MELINA</td>
       <td>Rua Alameda Amazonas Qd 96 Lt 01 - St. M. do Sol - Apto 1006 Torre 3</td>
-      <td></td>
+      <td>78728</td>
       <td></td>
       <td></td>
     </tr>
