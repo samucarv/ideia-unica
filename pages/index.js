@@ -41,7 +41,7 @@ function Home(){
       <th scope="row">LUCIANO</th>
       <td>ALINE RENATO</td>
       <td>RUA. 02, L 17, Q 02, P. JATOBAS (CASA 2)</td>
-      <td></td>
+      <td>41037</td>
       <td></td>
       <td></td>
     </tr>
@@ -50,7 +50,7 @@ function Home(){
       <th scope="row">LUCIANO</th>
       <td>MARIA PAULA / EDSON</td>
       <td>RUA. 02, L 17, Q 02, P. JATOBAS (CASA 1)</td>
-      <td></td>
+      <td>41037</td>
       <td></td>
       <td></td>
     </tr>
@@ -96,7 +96,7 @@ function Home(){
       <th scope="row">HERBERTO</th>
       <td>WALACE</td>
       <td>Rua Alameda Amazonas Qd 96 Lt 01 - St. M. do Sol - Apto 1903 Torre 1</td>
-      <td></td>
+      <td>75312</td>
       <td></td>
       <td></td>
     </tr>
@@ -213,7 +213,7 @@ function Home(){
       <th scope="row">RENATO BUENO</th>
       <td>ANDRE LUIZ</td>
       <td>Pq dos Jatobas r 5 q6 lt 10 casa 6</td>
-      <td></td>
+      <td>44314</td>
       <td></td>
       <td></td>
     </tr>
@@ -240,7 +240,7 @@ function Home(){
       <th scope="row">NECO</th>
       <td>SAMUEL</td>
       <td>RUA 139 QD. LT. - PARQUE DAS LARANJEIRAS</td>
-      <td></td>
+      <td>23230</td>
       <td></td>
       <td></td>
     </tr>
@@ -249,7 +249,7 @@ function Home(){
       <th scope="row">GELSON</th>
       <td>JACIRA</td>
       <td>RUA 139 QD. LT. - PARQUE DAS LARANJEIRAS</td>
-      <td></td>
+      <td>67957</td>
       <td></td>
       <td></td>
     </tr>
