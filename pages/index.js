@@ -32,7 +32,7 @@ function Home(){
       <th scope="row">LUCIANO</th>
       <td>ANDRE LUIZ / DENISE</td>
       <td>RUA.01 Q.01 L.10,  R. IPES</td>
-      <td></td>
+      <td>44559</td>
       <td></td>
       <td></td>
     </tr>
@@ -59,7 +59,7 @@ function Home(){
       <th scope="row">LUCIANO</th>
       <td>OSMAR PONCE</td>
       <td>Rua 01, qd 01, lt 11,R. IPES</td>
-      <td></td>
+      <td>44561</td>
       <td></td>
       <td></td>
     </tr>
@@ -68,7 +68,7 @@ function Home(){
       <th scope="row">LUCIANO</th>
       <td>HUMBERTO</td>
       <td>RUA 01, L 02, Q 01, R. IPES</td>
-      <td></td>
+      <td>44570</td>
       <td></td>
       <td></td>
     </tr>
@@ -77,7 +77,7 @@ function Home(){
       <th scope="row">LUCIANO</th>
       <td>DONA ILMA</td>
       <td>RUA 02, Q 06, L 05, R.IPES</td>
-      <td></td>
+      <td>44639</td>
       <td></td>
       <td></td>
     </tr>
@@ -105,7 +105,7 @@ function Home(){
       <th scope="row">MARCELO BARBOSA</th>
       <td>BETO / ALINE</td>
       <td>R 04, qd 02, lt 07 R Parque dos Ipes</td>
-      <td></td>
+      <td>44580</td>
       <td></td>
       <td></td>
     </tr>
@@ -114,7 +114,7 @@ function Home(){
       <th scope="row">AMÁLIA</th>
       <td>CAMILA</td>
       <td>Rua 06, qd 01, lt 14 R Parque Ipes</td>
-      <td></td>
+      <td>44565</td>
       <td></td>
       <td></td>
     </tr>
@@ -123,7 +123,7 @@ function Home(){
       <th scope="row">AMÁLIA</th>
       <td>GUILHERME</td>
       <td>RUA 5 QD 6 LT 10 CASA 4 - PARQUE DOS JATOBAS</td>
-      <td></td>
+      <td>44513</td>
       <td></td>
       <td></td>
     </tr>
@@ -141,7 +141,7 @@ function Home(){
       <th scope="row">JORGE</th>
       <td>LETÍCIA / SACHA</td>
       <td>S. Universt. r U-10 q3 lt 8 apto 103</td>
-      <td></td>
+      <td>66731</td>
       <td></td>
       <td></td>
     </tr>
@@ -150,7 +150,7 @@ function Home(){
       <th scope="row">IVAN PERUZO</th>
       <td>ROBSON / VIRGINIA</td>
       <td>Rua Alameda Amazonas Qd 96 Lt 01 - St. M. do Sol - Apto 2005 Torre 4</td>
-      <td></td>
+      <td>78909</td>
       <td></td>
       <td></td>
     </tr>
@@ -159,7 +159,7 @@ function Home(){
       <th scope="row">IVAN PERUZO</th>
       <td>ANDRE SCHWENING</td>
       <td>A1,q 10, lote 07- ap 601, Edificio Elevado Flamboyant</td>
-      <td></td>
+      <td>74420</td>
       <td></td>
       <td></td>
     </tr>
@@ -168,7 +168,7 @@ function Home(){
       <th scope="row">EMERSON CARLIS</th>
       <td>CARLOS FREDERICO</td>
       <td>Avenida 01, Qd. 06 Lt. 10 R. Parque dos ipes</td>
-      <td></td>
+      <td>44616</td>
       <td></td>
       <td></td>
     </tr>
@@ -204,7 +204,7 @@ function Home(){
       <th scope="row">RONALDINHO</th>
       <td>KARLA</td>
       <td>Rua  Dos Guaranis, qd 20, lt 05,  Pq das Laranjeiras </td>
-      <td></td>
+      <td>40621</td>
       <td></td>
       <td></td>
     </tr>
@@ -231,7 +231,7 @@ function Home(){
       <th scope="row">FABIO POSSATO</th>
       <td>JULIANE / LUCAS</td>
       <td>Rua Alameda Amazonas Qd 96 Lt 01 - St. M. do Sol - Apto 804 Torre 4</td>
-      <td></td>
+      <td>78836</td>
       <td></td>
       <td></td>
     </tr>
