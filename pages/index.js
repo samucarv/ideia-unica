@@ -81,7 +81,15 @@ function Home(){
       <td></td>
       <td></td>
     </tr>
-
+  
+    <tr>
+      <th scope="row">VITOR BIOLCHI</th>
+      <td>MARCELO</td>
+      <td>RUA 02, Q 06, L 03, R.IPES</td>
+      <td>44637</td>
+      <td></td>
+      <td></td>
+    </tr>
    
     <tr>
       <th scope="row">ANITA</th>
