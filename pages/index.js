@@ -28,7 +28,7 @@ function Home(){
     </tr>
   </thead>
   <tbody>
-    <tr>
+    <tr class="table-danger">
       <th scope="row">LUCIANO</th>
       <td>ANDRE LUIZ / DENISE</td>
       <td>RUA.01 Q.01 L.10,  R. IPES</td>
