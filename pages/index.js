@@ -91,11 +91,11 @@ function Home(){
       <td></td>
     </tr>
    
-    <tr>
+    <tr class="table-danger">
       <th scope="row">ANITA</th>
       <td>AMARA</td>
-      <td></td>
-      <td></td>
+      <td>Rua 5 Qd. 08 Lt. 12 - Conjunto Morada do Sol</td>
+      <td>13172</td>
       <td></td>
       <td></td>
     </tr>
