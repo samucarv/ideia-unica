@@ -262,6 +262,17 @@ function Home(){
       <td></td>
     </tr>
 
+    <tr class="table-success">
+      <th scope="row">JORGE</th>
+      <td>INQUILINO</td>
+      <td>RUA A, NUMERO 160, BLOCO 1, APTO 302 - CONDOMINIO GRAND PREMIERE</td>
+      <td>1217846</td>
+      <td></td>
+      <td></td>
+    </tr>
+
+
+
   </tbody>
 </table>
 
